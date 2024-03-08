@@ -1,6 +1,8 @@
 # Gemini-App-to-Retrieve-SQL-Data
 Gemini App to Retrieve SQL Data using prompts
 
+Streamlit web APP: https://gemini-app-to-retrieve-sql-data-i26k8wnp3qtdcgtzszxh7y.streamlit.app/
+
 1. **Environment Setup**: You start by importing necessary libraries such as `dotenv` for managing environment variables, `streamlit` for creating web applications, `os` for interacting with the operating system, and `sqlite3` for working with SQLite databases.
 
 2. **Google Generative AI Configuration**: You load the Google Generative AI API key from the environment variables using `dotenv` and configure it for use with the `google.generativeai` module.
